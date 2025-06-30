@@ -125,3 +125,10 @@ git clone https://github.com/yourusername/Pizza-Sales-Analysis.git
 3. Open Power BI and import the CSV data to recreate the dashboard visuals.
 
 
+## Author
+Vaibhavi Sanjay Kalmegh
+📍 G.V.I.S.H., Amravati
+🎓 M.Sc. in Statistics (2023) 
+Follow me on:  
+🔗 [GitHub](https://github.com/vaibhavikalmegh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavikalmegh18)
