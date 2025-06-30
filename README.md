@@ -115,16 +115,6 @@ Full list of queries is available in the `SQL_Pizza_Sales_Analysis.sql` file.
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-```bash
-git clone https://github.com/vaibhavikalmegh/Pizza_sales_analysis.git
-```
-2. Load the `.sql` files into your SQL client (e.g., MySQL Workbench).
-3. Open Power BI and import the CSV data to recreate the dashboard visuals.
-
-
 ## Author
 Vaibhavi Sanjay Kalmegh
 📍 G.V.I.S.H., Amravati
